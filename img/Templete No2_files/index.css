@@ -699,129 +699,37 @@ color: #595e5e;
 /* Start Contact me */
 
 .contact_me{
-    background: #252f31;
-    padding: 60px 0px;
+
 }
 .contact_me .container{
 
 }
 .contact_me .contant{
-    column-count: 2;
-    column-gap: 75px;
+
 }
 .contact_me .contant .text{
-    margin-bottom: 320px;
+
 }
 .contact_me .contant .text h2{
-    column-span: all;
-    margin: 0px;
-    margin-bottom: 30px;
-    color: #f2f2f2
+
 }
 .contact_me .contant .text p{
-    font-size: 15px;
-    color: #777777;
-    text-transform: none;
-    line-height: 1.5;
+
 }
 .contact_me .contant .text p span{
-    color: #f2f2f2;
+
 }
 
 .contact_me .contant .add-info{
 
 }
-.contact_me .contant .add-info label{
-    color: #f2f2f2;
-    display: block;
-    margin: 20px 0px;
-    text-transform: capitalize;
-}
-.contact_me .contant .add-info .txt{
-    outline: none;
-    background: #3a4648;
-    border: none;
-    color: #f2f2f2;
-    width: 85%;
-    padding: 12px;
-}
-.contact_me .contant .add-info textarea{
-    background: #3a4648;
-    outline: none;
-    border: none;
-    resize: none;
-    color: #f2f2f2;
-    padding: 12px;
-    width: 85%;
-}
-.contact_me .contant .add-info .btn{
-    display: block;
-    padding: 10px 20px;
-    margin-top: 30px;
-    background: #191d21;
-    border: none;
-    outline: none;
-    color: #f2f2f2;
-    text-transform: uppercase;
-    font-size: 15px;
-    font-family: sans-serif;
-}
+.contact_me .contant .add-info label{}
+.contact_me .contant .add-info .txt{}
+.contact_me .contant .add-info .btn{}
+.contact_me .contant .add-info textarea{}
 
 
 /* End Contact me */
-/* start footer */
-.footer{
-    padding: 20px 0px;
-    background: #191d21;
-    text-align: center;
-}
-.footer .container{
-
-}
-.footer .contant{
-
-}
-.footer .contant p{
-    color: #2d353c;
-    margin: 0px;
-    font-size: 15px;
-}
-.footer .contant p span{
-    color: #4b525b;
-    font-size: 18px;
-    text-transform: none;
-}
-.footer .contant .link{
-
-}
-.footer .contant .link ul{
-    list-style: none;
-    display: inline-block;
-    padding: 0px;
-}
-.footer .contant .link ul li{
-    margin-left: 6px;
-    display: inline-block;
-    height: 40px;
-    padding: 0px 5px;
-    padding-top: 10px;
-    background: #3a4648;
-    border-radius: 25px;
-    transition: all 0.3s;
-}
-.footer .contant .link ul li i{
-    width: 30px;
-    height: 30px;
-    font-size: 20px;
-}
-.footer .contant .link ul li:hover{
-    background: #f2f2f2;
-    cursor: pointer;
-    transform: scale(1.08,1.08);
-}
-
-
-/* End footer */
 
 
 
